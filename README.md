@@ -1,3 +1,6 @@
+[![TikTok Streak](https://github.com/SatzzDev/TikTok-Streak/actions/workflows/TikTok-Streak.yml/badge.svg)](https://github.com/SatzzDev/TikTok-Streak/actions/workflows/TikTok-Streak.yml)
+
+
 > [!WARNING]
 > **This TikTok Streak Bot is illegal. Use it at your own risk.**
 >

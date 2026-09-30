@@ -3,7 +3,6 @@ name: TikTok Streak
 on:
   schedule:
     - cron: "0 15 * * *"
-    - cron: "0 17 * * *"
   workflow_dispatch:
 
 jobs:
